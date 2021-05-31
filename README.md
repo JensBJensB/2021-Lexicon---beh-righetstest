@@ -25,6 +25,6 @@ samt hur många försök det tog. Gissar användaren fel ska ett meddelande visa
 14.Funktion där användaren skickar in ett antal värden (komma-separerade siffror) som sedan sorteras och skrivs ut efter udda och jämna värden.<br /> 
 15.Funktion där användaren skriver in ett antal värden(komma-separerade siffor) som sedan adderas och skrivs ut.<br /> 
 16.Funktion där användaren ska ange namnet på sin karaktär och namnet på en motståndare. Funktionen skall sedan själv lägga till slumpmässiga värden för Hälsa, 
-  Styrka och Tur, som sparas i en instans av en klass.<br /> 
+Styrka och Tur, som sparas i en instans av en klass.<br /> 
 
 Lycka till!<br /> 
