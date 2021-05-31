@@ -17,7 +17,7 @@ Jag vill ha dessa funktioner:<br />
 6.&nbsp;&nbsp;Funktion som genererar att slumpmässigt tal mellan 1 och 100. Användaren ska sedan gissa talet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren rätt så ska ett meddelande säga detta, samt hur många försök det tog.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren fel ska ett meddelande visas som informerar ifall talet var för stort eller för litet<br />
-7.&nbsp;&nbsp;Funktion där användaren skriver in en textrad, som sedan sparas i en fil på hårddisken8.Funktion där en fil läses in från hårddisken<br />
+7.&nbsp;&nbsp;Funktion där användaren skriver in en textrad, som sedan sparas i en fil på hårddisken8.Funktion där en fil läses in från hårddisken
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(för enkelhetens skull kan man använda filen   från uppgift 7)<br /> 
 8.&nbsp;&nbsp;Funktion där en fil läses in från hårddisken (för enkelhetens skull kan man använda filen från uppgift 7)<br /> 
 9.&nbsp;&nbsp;Funktion där användaren skickar in ett decimaltal och får tillbakaroten ur, upphöjt till 2 och upphöjt till 10<br /> 
