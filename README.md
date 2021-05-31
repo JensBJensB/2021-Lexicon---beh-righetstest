@@ -1,6 +1,6 @@
 # 2021-Lexicon---beh-righetstest
 
-Programmering Förberedande kursJag vill att du ska skapa ett enklare program med nedanstående funktioner. Förslagsvis i ett konsolprojekt i Visual Studio. Programmet ska bestå av ett menysystem där du med hjälp av inmatning ska kunna välja vilken funktionalitet som ska köras. Programmet ska hållas igång tills du väljer alternativet för att stänga ner det (förslagsvis med valet 0 i menyn). Jag vill ha dessa funktioner:
+Programmering Förberedande kursJag vill att du ska skapa ett enklare program med nedanstående funktioner. Förslagsvis i ett konsolprojekt i Visual Studio. Programmet ska bestå av\n ett menysystem där du med hjälp av inmatning ska kunna välja vilken funktionalitet som ska köras. Programmet ska hållas igång tills du väljer alternativet för att stänga ner det (förslagsvis med valet 0 i menyn). Jag vill ha dessa funktioner:
 
 1.Funktion som skriver ut ”Hello World” i konsolen
 2.Funktion som tar in input från användaren (Förnamn, Efternamn, Ålder) och sedan skriver ut dessa i konsolen
