@@ -12,7 +12,7 @@ Jag vill ha dessa funktioner:<br />
 1.&nbsp;&nbsp;Funktion som skriver ut ”Hello World” i konsolen<br /> 
 2.&nbsp;&nbsp;Funktion som tar in input från användaren (Förnamn, Efternamn, Ålder) och sedan skriver ut dessa i konsolen<br /> 
 3.&nbsp;&nbsp;Funktion som ändrar färgen på texten i konsolen (och ändrar tillbaka om man använder funktionen igen<br /> 
-4.&nbsp;&nbsp;Funktion för att skriva ut dagens datum5.Funktion som tar två input värden, sedan skriver ut vilket av dem som är störst.<br /> 
+4.&nbsp;&nbsp;Funktion för att skriva ut dagens datum<br /> 
 5.&nbsp;&nbsp;Funktion som tar två input värden, sedan skriver ut vilket av dem som är störst.<br /> 
 6.&nbsp;&nbsp;Funktion som genererar att slumpmässigt tal mellan 1 och 100. Användaren ska sedan gissa talet.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren rätt så ska ett meddelande säga detta, samt hur många försök det tog.<br />
