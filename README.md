@@ -1,5 +1,5 @@
 # 2021-Lexicon---beh-righetstest
-
+```
 **Programmering Förberedande kurs.**<br />
 Jag vill att du ska skapa ett enklare program med nedanstående funktioner.<br /> 
 Förslagsvis i ett konsolprojekt i Visual Studio.
@@ -28,3 +28,4 @@ samt hur många försök det tog. Gissar användaren fel ska ett meddelande visa
 Styrka och Tur, som sparas i en instans av en klass.<br /> 
 
 Lycka till!<br /> 
+```
