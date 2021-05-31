@@ -9,18 +9,18 @@ Programmet ska hållas igång tills du väljer alternativet för att stänga ner
 <br />
 Jag vill ha dessa funktioner:<br /> 
 
-&nbsp;1.&nbsp;&nbsp;Funktion som skriver ut ”Hello World” i konsolen<br /> 
-&nbsp;2.&nbsp;&nbsp;Funktion som tar in input från användaren (Förnamn, Efternamn, Ålder) och sedan skriver ut dessa i konsolen<br /> 
-&nbsp;3.&nbsp;&nbsp;Funktion som ändrar färgen på texten i konsolen (och ändrar tillbaka om man använder funktionen igen<br /> 
-&nbsp;4.&nbsp;&nbsp;Funktion för att skriva ut dagens datum<br /> 
-&nbsp;5.&nbsp;&nbsp;Funktion som tar två input värden, sedan skriver ut vilket av dem som är störst.<br /> 
-&nbsp;6.&nbsp;&nbsp;Funktion som genererar att slumpmässigt tal mellan 1 och 100. Användaren ska sedan gissa talet.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren rätt så ska ett meddelande säga detta, samt hur många försök det tog.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren fel ska ett meddelande visas som informerar ifall talet var för stort eller för litet<br />
-&nbsp;7.&nbsp;&nbsp;Funktion där användaren skriver in en textrad, som sedan sparas i en fil på hårddisken<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(för enkelhetens skull kan man använda filen   från uppgift 7)<br /> 
-&nbsp;8.&nbsp;&nbsp;Funktion där en fil läses in från hårddisken (för enkelhetens skull kan man använda filen från uppgift 7)<br /> 
-&nbsp;9.&nbsp;&nbsp;Funktion där användaren skickar in ett decimaltal och får tillbakaroten ur, upphöjt till 2 och upphöjt till 10<br /> 
+&nbsp;&nbsp;1.&nbsp;&nbsp;Funktion som skriver ut ”Hello World” i konsolen<br /> 
+&nbsp;&nbsp;2.&nbsp;&nbsp;Funktion som tar in input från användaren (Förnamn, Efternamn, Ålder) och sedan skriver ut dessa i konsolen<br /> 
+&nbsp;&nbsp;3.&nbsp;&nbsp;Funktion som ändrar färgen på texten i konsolen (och ändrar tillbaka om man använder funktionen igen<br /> 
+&nbsp;&nbsp;4.&nbsp;&nbsp;Funktion för att skriva ut dagens datum<br /> 
+&nbsp;&nbsp;5.&nbsp;&nbsp;Funktion som tar två input värden, sedan skriver ut vilket av dem som är störst.<br /> 
+&nbsp;&nbsp;6.&nbsp;&nbsp;Funktion som genererar att slumpmässigt tal mellan 1 och 100. Användaren ska sedan gissa talet.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren rätt så ska ett meddelande säga detta, samt hur många försök det tog.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gissar användaren fel ska ett meddelande visas som informerar ifall talet var för stort eller för litet<br />
+&nbsp;&nbsp;7.&nbsp;&nbsp;Funktion där användaren skriver in en textrad, som sedan sparas i en fil på hårddisken<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(för enkelhetens skull kan man använda filen   från uppgift 7)<br /> 
+&nbsp;&nbsp;8.&nbsp;&nbsp;Funktion där en fil läses in från hårddisken (för enkelhetens skull kan man använda filen från uppgift 7)<br /> 
+&nbsp;&nbsp;9.&nbsp;&nbsp;Funktion där användaren skickar in ett decimaltal och får tillbakaroten ur, upphöjt till 2 och upphöjt till 10<br /> 
 10.&nbsp;&nbsp;Funktion där programmet skriver ut en multiplikationstabell från 1 till 10. En ”tab”ska läggas in efter varje nummer.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Försöka att ställa upp det så det blir relativt läsbart.<br /> 
 11.&nbsp;&nbsp;Funktion som skapar två arrayer. Den första fylls med slumpmässiga tal.<br />
