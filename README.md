@@ -24,7 +24,8 @@ Jag vill ha dessa funktioner:<br />
 11.Funktion som skapar två arrayer. Den första fylls med slumpmässiga tal. Den andra fylls med talen från den första i stigande ordning.<br /> 
 12.Funktion som tar en input från användaren och kontrollerar ifall det är en palindrom (alltså samma ord från båda håll, såsom Anna eller radar.<br /> 
 13.Funktion som tar två inputs från användaren och skriver sedan ut alla siffror som är mellan de två inputsen.<br /> 
-14.Funktion där användaren skickar in ett antal värden (komma-separerade siffror) som sedan sorteras och skrivs ut efter udda och jämna värden.<br /> 
+14.Funktion där användaren skickar in ett antal värden (komma-separerade siffror) som sedan sorteras och skrivs ut efter<br />
+&nbsp;&nbsp;&nbsp;udda och jämna värden.<br /> 
 15.Funktion där användaren skriver in ett antal värden(komma-separerade siffor) som sedan adderas och skrivs ut.<br /> 
 16.Funktion där användaren ska ange namnet på sin karaktär och namnet på en motståndare.<br />
 &nbsp;&nbsp;&nbsp;Funktionen skall sedan själv lägga till slumpmässiga värden för Hälsa, Styrka och Tur, som sparas i en instans av en klass.<br /> 
