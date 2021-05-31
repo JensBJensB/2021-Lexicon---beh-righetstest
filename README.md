@@ -22,7 +22,7 @@ Jag vill ha dessa funktioner:<br />
 &nbsp;8.&nbsp;&nbsp;Funktion där en fil läses in från hårddisken (för enkelhetens skull kan man använda filen från uppgift 7)<br /> 
 &nbsp;9.&nbsp;&nbsp;Funktion där användaren skickar in ett decimaltal och får tillbakaroten ur, upphöjt till 2 och upphöjt till 10<br /> 
 10.&nbsp;&nbsp;Funktion där programmet skriver ut en multiplikationstabell från 1 till 10. En ”tab”ska läggas in efter varje nummer.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Försöka att ställa upp det så det blir relativt läsbart.<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Försöka att ställa upp det så det blir relativt läsbart.<br /> 
 11.&nbsp;&nbsp;Funktion som skapar två arrayer. Den första fylls med slumpmässiga tal.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Den andra fylls med talen från den första i stigande ordning.<br /> 
 12.&nbsp;&nbsp;Funktion som tar en input från användaren och kontrollerar ifall det är en palindrom (alltså samma ord från båda håll,<br />
@@ -32,7 +32,7 @@ Jag vill ha dessa funktioner:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;udda och jämna värden.<br /> 
 15.&nbsp;&nbsp;Funktion där användaren skriver in ett antal värden(komma-separerade siffor) som sedan adderas och skrivs ut.<br /> 
 16.&nbsp;&nbsp;Funktion där användaren ska ange namnet på sin karaktär och namnet på en motståndare.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Funktionen skall sedan själv lägga till slumpmässiga värden för Hälsa, Styrka och Tur, som sparas i en instans av en klass.<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Funktionen skall sedan själv lägga till slumpmässiga värden för Hälsa, Styrka och Tur, som sparas i en instans av en klass.<br /> 
 
 Lycka till!<br /> 
 
