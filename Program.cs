@@ -428,19 +428,17 @@ namespace StringManipulation
 
         private static void RolePlay()
         {
-
-            Console.WriteLine("Ange ditt namn: ");
+            Console.Clear();
+            Console.Write("Ange ditt namn: ");
 
             Player you = new Player(Console.ReadLine());
 
-            Console.WriteLine("Ange din motståndares namn: ");
+            Console.Write("Ange din motståndares namn: ");
 
             Player opponent = new Player(Console.ReadLine());
 
-            Console.WriteLine("You: {0}, health: {1}, strength: {2}, turn: {3}", you.name, you.health, you.strength, you.turn);
-            Console.WriteLine("Opponent: {0}, health: {1}, strength: {2}, turn: {3}", opponent.name, opponent.health, opponent.strength, opponent.turn);
-
-
+            Console.WriteLine("\nDu: {0}, Hälsa: {1} Styrka: {2} Tur: {3}", you.name, you.health, you.strength, you.luck);
+            Console.WriteLine("Motståndare: {0}, Hälsa: {1} Styrka: {2} Tur: {3}", opponent.name, opponent.health, opponent.strength, opponent.luck);
         }
 
         public class Player
@@ -448,16 +446,15 @@ namespace StringManipulation
             public string name;
             public int health;
             public int strength;
-            public int turn;
+            public int luck;
 
             public Player(string name)
             {
                 this.name = name;
                 this.health = new Random().Next(1, 100);
                 this.strength = new Random().Next(1, 100);
-                this.turn = new Random().Next(1, 100);
-            }
-             
+                this.luck = new Random().Next(1, 100);
+            }            
         }
     }
 }
