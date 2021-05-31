@@ -1,4 +1,4 @@
-# 2021-Lexicon---beh-righetstest
+# 2021-Lexicon-programmingtest
 
 **Programmering Förberedande kurs.**<br />
 <br />
