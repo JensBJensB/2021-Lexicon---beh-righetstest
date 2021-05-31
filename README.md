@@ -22,9 +22,10 @@ Jag vill ha dessa funktioner:<br />
 8.&nbsp;&nbsp;Funktion där en fil läses in från hårddisken (för enkelhetens skull kan man använda filen från uppgift 7)<br /> 
 9.&nbsp;&nbsp;Funktion där användaren skickar in ett decimaltal och får tillbakaroten ur, upphöjt till 2 och upphöjt till 10<br /> 
 10.&nbsp;&nbsp;Funktion där programmet skriver ut en multiplikationstabell från 1 till 10. En ”tab”ska läggas in efter varje nummer.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Försöka att ställa upp det så det blir relativt läsbart.<br /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Försöka att ställa upp det så det blir relativt läsbart.<br /> 
 11.&nbsp;&nbsp;Funktion som skapar två arrayer. Den första fylls med slumpmässiga tal. Den andra fylls med talen från den första i stigande ordning.<br /> 
-12.&nbsp;&nbsp;Funktion som tar en input från användaren och kontrollerar ifall det är en palindrom (alltså samma ord från båda håll, såsom Anna eller radar.<br /> 
+12.&nbsp;&nbsp;Funktion som tar en input från användaren och kontrollerar ifall det är en palindrom (alltså samma ord från båda håll,<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; såsom Anna eller radar.<br /> 
 13.&nbsp;&nbsp;Funktion som tar två inputs från användaren och skriver sedan ut alla siffror som är mellan de två inputsen.<br /> 
 14.&nbsp;&nbsp;Funktion där användaren skickar in ett antal värden (komma-separerade siffror) som sedan sorteras och skrivs ut efter<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;udda och jämna värden.<br /> 
