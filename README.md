@@ -1,14 +1,16 @@
 # 2021-Lexicon---beh-righetstest
 
 **Programmering Förberedande kurs.**<br />
+<br />
 Jag vill att du ska skapa ett enklare program med nedanstående funktioner.<br /> 
 Förslagsvis i ett konsolprojekt i Visual Studio.
 Programmet ska bestå avett menysystem där du med hjälp av inmatning ska kunna välja vilken funktionalitet som ska köras.<br /> 
 Programmet ska hållas igång tills du väljer alternativet för att stänga ner det (förslagsvis med valet 0 i menyn).<br /> 
+<br />
 Jag vill ha dessa funktioner:<br /> 
 
-1.Funktion som skriver ut ”Hello World” i konsolen<br /> 
-2.Funktion som tar in input från användaren (Förnamn, Efternamn, Ålder) och sedan skriver ut dessa i konsolen<br /> 
+1.&nbsp;Funktion som skriver ut ”Hello World” i konsolen<br /> 
+2.&nbsp;&nbsp;Funktion som tar in input från användaren (Förnamn, Efternamn, Ålder) och sedan skriver ut dessa i konsolen<br /> 
 3.Funktion som ändrar färgen på texten i konsolen (och ändrar tillbaka om man använder funktionen igen<br /> 
 4.Funktion för att skriva ut dagens datum5.Funktion som tar två input värden, sedan skriver ut vilket av dem som är störst.<br /> 
 5.Funktion som tar två input värden, sedan skriver ut vilket av dem som är störst.<br /> 
