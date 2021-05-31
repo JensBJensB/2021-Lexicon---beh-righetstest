@@ -2,8 +2,7 @@
 
 **Programmering Förberedande kurs.**<br />
 <br />
-Jag vill att du ska skapa ett enklare program med nedanstående funktioner.<br /> 
-Förslagsvis i ett konsolprojekt i Visual Studio.
+Jag vill att du ska skapa ett enklare program med nedanstående funktioner. Förslagsvis i ett konsolprojekt i Visual Studio.<br /> 
 Programmet ska bestå avett menysystem där du med hjälp av inmatning ska kunna välja vilken funktionalitet som ska köras.<br /> 
 Programmet ska hållas igång tills du väljer alternativet för att stänga ner det (förslagsvis med valet 0 i menyn).<br /> 
 <br />
